@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sahil Koul"
-  pronouns         : "he/him"  
+  pronouns         : # nothing  
   bio              : "Graduate Student"
   location         : "Boston,Massachusets"
   employer         : "Boston University"
