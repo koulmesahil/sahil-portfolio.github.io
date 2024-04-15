@@ -1,6 +1,6 @@
 ---
 title: "Customer Churn Prediction"
-excerpt: "For our project, I've picked two sets of data that both aim to predict when customers will stop using a service. One dataset has more categories like types of customers, while the other has more numbers like how much they spend. This gives us a chance to see how different computer programs handle each type of data. We want to learn which programs work best for different kinds of data and how we can make our programs even better. Our main aim is to make programs that can accurately predict when customers will leave, so businesses can make smart decisions based on that information. <br/><img src='images/churn_prediction_image.png'>"
+excerpt: "For this project, I've picked two sets of data that both aim to predict when customers will stop using a service. One dataset has more categories like types of customers, while the other has more numbers like how much they spend. This gives us a chance to see how different computer programs handle each type of data. We want to learn which programs work best for different kinds of data and how we can make our programs even better. Our main aim is to make programs that can accurately predict when customers will leave, so businesses can make smart decisions based on that information. <br/><img src='images/churn_prediction_image.png'>"
 collection: portfolio
 ---
 
