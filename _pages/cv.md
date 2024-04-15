@@ -23,19 +23,19 @@ Work experience
 ======
 * Boston University | Boston, Massachusetts | January 2024 – April 2024
   * Graduate Research Assistant
-    *• Developed a chatbot using Python and OpenAI's Generative AI and Large Language Models (LLMs), 
+    *Developed a chatbot using Python and OpenAI's Generative AI and Large Language Models (LLMs), 
       integrating retrieval augmented generation models. Attained a 30% reduction in processing time and 
       increased patient satisfaction by 25% through optimized results.
-    *• Streamlined prescription workflows, resulting in a 20% increase in accuracy. Utilized numerical metrics 
+    *Streamlined prescription workflows, resulting in a 20% increase in accuracy. Utilized numerical metrics 
       and medical literature for continuous refinement, aligning with industry benchmarks.
 
 * Vodafone-Qatar | Doha, Qatar | February 2021 – June 2021
 *Technology Intern
- * • Collaborated closely with the Analytics Team to analyze consumer behavior and geographic trends 
+ * Collaborated closely with the Analytics Team to analyze consumer behavior and geographic trends 
 leveraging Tableau, resulting in a 20% increase in accuracy of predictive models.
- * • Executed data-driven models, including KNN models, to predict areas requiring optimization within the 
+ * Executed data-driven models, including KNN models, to predict areas requiring optimization within the 
 telecom services, leading to a notable 35% surge in program engagement.
- * • Conducted 8 workshops on data interpretation for non-technical stakeholders, improving crossfunctional communication and helping teams to make informed decisions based on data-driven insights
+ * Conducted 8 workshops on data interpretation for non-technical stakeholders, improving crossfunctional communication and helping teams to make informed decisions based on data-driven insights
 
 Skills
 ======
