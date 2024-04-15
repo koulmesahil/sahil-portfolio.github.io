@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I'm Sahil and this is my Data Science Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+As a graduate student deeply passionate about the intersection of data and storytelling, I firmly believe in the power of these two tools to drive meaningful change. My days revolve around immersing myself in programming and data analysis, honing my skills in areas such as data visualization and machine learning.
+
+In my academic pursuits, I often find myself engaged in end-to-end data science projects, ranging from gathering data from various sources to leveraging advanced techniques to uncover insights. One area of particular interest to me is the application of generative AI algorithms, exploring their potential to create novel and impactful solutions.
+
+During my downtime, I channel my energy into personal projects that allow me to explore new avenues of creativity and innovation. Whether it's experimenting with generative art or diving into data-driven storytelling, I find joy in pushing the boundaries of what's possible.
+
+While my formal education has provided a solid foundation, I am also grateful for the contributions of online resources in shaping my journey. However, my focus has primarily been on leveraging these resources to augment my learning rather than relying solely on them.
+
+In the spirit of community engagement, I seek opportunities to contribute my skills and knowledge to meaningful causes. Whether it's participating in data-driven research initiatives or collaborating on projects with local organizations, I am committed to using my expertise for the greater good.
 
 A data-driven personal website
 ======
