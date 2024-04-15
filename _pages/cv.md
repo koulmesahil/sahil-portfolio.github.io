@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -37,33 +37,26 @@ leveraging Tableau, resulting in a 20% increase in accuracy of predictive models
 telecom services, leading to a notable 35% surge in program engagement.
        * Conducted 8 workshops on data interpretation for non-technical stakeholders, improving cross-functional communication and helping teams to make informed decisions based on data-driven insights
 
-Skills
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Image to Sentence Generation 
+  * Created an image-to-sentence generation project in Python using TensorFlow. Implemented an upgraded 
+architecture inspired by "Show, Attend and Tell," incorporating a 2-layer Transformer-decoder.
+  * Improved quality of captions by 35% and achieved a BLEU score of 0.54 meeting industry Benchmarks
+ 
+* Customer Churn Prediction
+  * Conducted Exploratory Data Analysis and implemented machine learning models in Python using
+customer churn prediction dataset, achieving classification accuracy of 83%.
+  * Applied data visualization techniques to better understand customer behavior and performed feature 
+engineering along with hyper parameter tuning to optimize model performance and accuracy
 
-Publications
+
+
+Skills And Certifications 
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Skills - Python, R, SQL, Hadoop Ecosystem Tools including Hive and Spark, D3.js, Tableau, Power BI, 
+Git/GitHub, Excel, AWS, Azure, Tensor flow, Scikit learn
+* Certifications - Google Advanced Data Analytics Certificate, Google Business Intelligence Certificate
+
+
