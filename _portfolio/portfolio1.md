@@ -1,3 +1,15 @@
+---
+title: "Food Delivery Services"
+excerpt: "description with images. <br/><img src='images/imagetosentence_project_imageforportfolio2.jpg'>"
+collection: portfolio
+---
+
+
+
+
+
+
+
 <div style="background-color: #333; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);">
     <h1 style="text-align: center; font-size: 28px; color: #fff; margin-bottom: 10px;">Exploratory Data Analysis & Classification</h1>
     <p style="text-align: center; font-size: 16px; color: #fff;">This project investigates online food orders, employing analysis and visuals to grasp data nuances and offer strategic insights for businesses.</p>
