@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 image should be below
-<br/><img src='/images/imagetosentenceportfolioimage.PNG'>
+<br/><img src='/files/imagetosentenceportfolioimage.PNG'>
